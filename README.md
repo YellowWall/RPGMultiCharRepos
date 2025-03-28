@@ -1,4 +1,4 @@
-***Spunaspila vefþjónusta***
+***_Spunaspila vefþjónusta_***
 
 Áætlun hér er að skrifa vefþjónustu í kotlin til að halda utan um karaktera fyrir spunaspil. Eftirfarandi atriði eiga að vera útfærð:
 1. Almennt utanumhald fyrir karakter á þeim forsendum að allir karakterara hafa nafn, eiginleika, inventory, baksögu/punkta, leikjakerfi sem þeir eru spilaðir í og spilara
